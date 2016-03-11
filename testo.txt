@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Nel mezzo del cammin di nostra vitae.
+=======
+
+Nel mezzo del cammin di nota vita.
+>>>>>>> 317473d475cc8d80eaedf8ca0198dad259569e36
 
 
