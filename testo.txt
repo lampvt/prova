@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Nel mezo del cammin di nota vitae.
+=======
+Nel mezzo del camin di nota vitae.
+>>>>>>> 06e309e01fbdfabbaa0add44c01c8e460dbd8d96
 
